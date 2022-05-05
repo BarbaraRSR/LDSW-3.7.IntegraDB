@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "364174678549",
+    "project_id": "suv5diseno",
+    "storage_bucket": "suv5diseno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364174678549:android:9e6a2f9dbc295f13c34c1c",
+        "android_client_info": {
+          "package_name": "com.example.moviesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364174678549-bpbi006lqhknlman97tgt55rhri8ekbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8o2f1bkbOpYH-AslDFoCmWEzWMMD2d2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364174678549-bpbi006lqhknlman97tgt55rhri8ekbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
